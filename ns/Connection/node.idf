@@ -4,6 +4,6 @@
   <value name="node_type">interface</value>
   <value name="node_subtype">unknown</value>
   <value name="node_nsName">Connection</value>
-  <value name="node_pkg">OPC-tpp</value>
+  <value name="node_pkg">OPC_tpp</value>
   <value name="is_public">false</value>
 </Values>
